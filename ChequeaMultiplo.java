@@ -21,7 +21,6 @@ public class ChequeaMultiplo{
         nuevo.divisor=scanner.nextInt();
 
         nuevo.chequear();
-
         scanner.close();
     }
 }
